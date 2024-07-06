@@ -88,3 +88,11 @@ while (inimigo != 0){
     console.log("+20 XP")
     inimigo --
 }
+
+
+function atacar(){
+   console.log ("Atacou inimigo")
+
+}
+
+atacar()
